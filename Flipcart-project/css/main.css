@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@700&display=swap');
+.container{
+    min-height: calc(100vh - 7vh - 6vh);
+}
+.slide{
+    background-image: url('https://www.cats.org.uk/media/1879/shop-banner.jpg?width=1600');
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    overflow: hidden;
+}
+.WELL{
+    display: inline-block;
+    color: white;
+    /* font-family: 'Berkshire Swash', cursive; */
+    font-family: 'Zilla Slab Highlight', cursive;
+
+}
+.text{
+    color: rgb(255, 255, 255);
+    /* font-family: 'Berkshire Swash', cursive; */
+    font-family: 'Zilla Slab Highlight', cursive;
+}
+.ok{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 11%;
+    margin-left: -2%;
+}
+.card{
+    display: flex;
+    /* justify-content: center; */
+    /* max-width: 92vmax; */
+    /* margin: auto; */
+    padding: 12px;
+    overflow: scroll;
+    margin: 0%;
+}
+.card3{
+    display: flex;
+    /* justify-content: center; */
+    /* max-width: 92vmax; */
+    margin: auto;
+    padding: 12px;
+    margin: 0%;
+    overflow: scroll;
+}
+.card1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hh1{
+    display: inline-block;
+    justify-content: center;
+    /* font-family: 'Zilla Slab Highlight', cursive; */
+    font-size: 1rem;
+    margin-left: 2vh;
+}
