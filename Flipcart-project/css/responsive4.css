@@ -1,0 +1,11 @@
+@media screen and (max-width:1230px){
+    .card3{
+        display: flex;
+        /* justify-content: center; */
+        /* max-width: 92vmax; */
+        margin: auto;
+        padding: 12px;
+        margin: 0%;
+        overflow: scroll;
+    }
+}
