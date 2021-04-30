@@ -10,16 +10,20 @@
     justify-content: center;
     margin: 15px;
     overflow: hidden;
+    
 }
 .WELL{
-    display: inline-block;
-    color: white;
+    display: inline;
+    color: #fff38b;
+    background-color: black;
     /* font-family: 'Berkshire Swash', cursive; */
     font-family: 'Zilla Slab Highlight', cursive;
 
 }
 .text{
-    color: rgb(255, 255, 255);
+    display: inline;
+    color: white;
+    background-color: black;
     /* font-family: 'Berkshire Swash', cursive; */
     font-family: 'Zilla Slab Highlight', cursive;
 }
